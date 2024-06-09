@@ -1,12 +1,37 @@
-## Hi there 👋
+## Olá 👋
 
-<!--
+**Somos o JIFA:**
 
-**Here are some ideas to get you started:**
+🙋‍♀️ **JIFA** - Acrônimo para **J**oin **i**n, **f**orge **a**head! (tradução: Junte-se, siga em frente!), a ideia inicial para a sigla seria uma letra da cidade de cada um dos membros do time (**J**ucás, *I*guatu, **F**ortaleza, **A**urora). Ficou melhor assim, deixa quieto.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+👩‍💻 Somos alunos do curso de Análise e Desenvolvimento de Sistemas (ADS) da Universidade Federal do Cariri (UFCA), turma 2023.2
+
+📋 O projeto que estamos desenvolvendo consiste em um Sistema de Agendamento para um Consultório Odontológico, e está relacionado a disciplina Projeto Integrado II que tem como docente [allysson allex de paula araujo](https://sig.ufca.edu.br/sigaa/public/docente/portal.jsf?siape=1362431), github: [allyssonallex](https://github.com/allyssonallex)
+
+🏅 Ao todo serão três etapas, nomeadas como **Entregável Parcial** ou **EP**, os quais dividimos em repositórios.
+
+ - [**EP1**](https://github.com/jifa-team/ep1-pi2) ->  Desenvolvimento do Projeto Físico de Banco de Dados do MVP (Minimum Product Viável ou Mínimo Produto Viável).
+ - **EP2**-> Protatipação do Wireframe do MVP.
+ - **EP3**-> Implementação das classes Java do MVP.
+
+📌 Realizamos o gerenciamento do projeto através da próprio github projects. Veja o andamento do nosso projeto, [clicando aqui](https://github.com/orgs/jifa-team/projects/1)
+
+⏳ Datas e entregas:
+| Entrega |Data Limite |
+|--|--|
+|***EP1***  | 11 de Junho de 2024 |
+|***EP2***  | 13 de Agosto de 2024 |
+|***EP3***  | 10 de Setembro de 2024 |
+
+🔗 Nosso Time:
+|Quem| Nome | Github |
+|--|--|--|
+| ![enter image description here](https://ava.ufca.edu.br/pluginfile.php/47618/user/icon/moove/f1?rev=383266) | Gustavo Reinaldo *(Facilitador)*  | [gustavo-reinaldo](https://github.com/gustavo-reinaldo)|
+| ![enter image description here](https://ava.ufca.edu.br/pluginfile.php/47615/user/icon/moove/f1?rev=578527) | Adão Eduardo  |[Edu-Oliver](https://github.com/Edu-Oliver) |
+| ![enter image description here](https://ava.ufca.edu.br/pluginfile.php/50933/user/icon/moove/f1?rev=633890) | Alexandra de Paula  |[Alepaulas](https://github.com/Alepaulas) |
+| ![enter image description here](https://ava.ufca.edu.br/pluginfile.php/47628/user/icon/moove/f1?rev=383871) | Carlos Eduardo  |[cadullira](https://github.com/cadullira) |
+| ![enter image description here](https://ava.ufca.edu.br/pluginfile.php/47617/user/icon/moove/f1?rev=402000) | Sayonara Arcanjo  |[sayarcanjo](https://github.com/sayarcanjo) |
+
+ 
+
+
