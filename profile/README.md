@@ -10,8 +10,8 @@
 
 🏅 Ao todo serão três etapas, nomeadas como **Entregável Parcial** ou **EP**, os quais dividimos em repositórios.
 
- - [**EP1**](https://github.com/jifa-team/ep1-pi2) ->  Desenvolvimento do Projeto Físico de Banco de Dados do MVP (Minimum Product Viável ou Mínimo Produto Viável).
- - **EP2**-> Prototipação do Wireframe do MVP.
+ - [**EP1**](https://github.com/jifa-team/ep1-pi2) -> Desenvolvimento do Projeto Físico de Banco de Dados do MVP (Minimum Product Viável ou Mínimo Produto Viável).
+ - [**EP2**](https://github.com/jifa-team/ep2-pi2) -> Prototipação do Wireframe do MVP.
  - **EP3**-> Implementação das classes Java do MVP.
 
 📌 Realizamos o gerenciamento do projeto através da próprio github projects. Veja o andamento do nosso projeto, [clicando aqui](https://github.com/orgs/jifa-team/projects/1)
