@@ -27,7 +27,7 @@
 |Quem| Nome | Github |
 |--|--|--|
 | ![enter image description here](https://ava.ufca.edu.br/pluginfile.php/47618/user/icon/moove/f1?rev=383266) | Gustavo Reinaldo *(Facilitador)*  | [gustavo-reinaldo](https://github.com/gustavo-reinaldo)|
-| ![enter image description here](https://ava.ufca.edu.br/pluginfile.php/47615/user/icon/moove/f1?rev=578527) | Adão Eduardo  |[Edu-Oliver](https://github.com/LabIsDu) |
+| ![enter image description here](https://ava.ufca.edu.br/pluginfile.php/47615/user/icon/moove/f1?rev=578527) |  Eduardo Oliveira |[LabIsDu](https://github.com/LabIsDu) |
 | ![enter image description here](https://ava.ufca.edu.br/pluginfile.php/50933/user/icon/moove/f1?rev=633890) | Alexandra de Paula  |[Alepaulas](https://github.com/Alepaulas) |
 | ![enter image description here](https://ava.ufca.edu.br/pluginfile.php/47628/user/icon/moove/f1?rev=383871) | Carlos Eduardo  |[cadullira](https://github.com/cadullira) |
 | ![enter image description here](https://ava.ufca.edu.br/pluginfile.php/47617/user/icon/moove/f1?rev=402000) | Sayonara Arcanjo  |[sayarcanjo](https://github.com/sayarcanjo) |
